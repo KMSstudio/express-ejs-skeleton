@@ -1,0 +1,15 @@
+{
+  "name": "sample_xpress_ejs_webapp",
+  "version": "1.0.0",
+  "description": "sample express-ejs web application",
+  "main": "app.js",
+  "bin": {
+    "sample_xpress_ejs_webapp": "bin/www.js"
+  },
+  "scripts": {
+    "test": "nodemon ./bin/www.js",
+    "start": "nodemon ./bin/www.js"
+  },
+  "author": "Kang Serius",
+  "license": "ISC"
+}
